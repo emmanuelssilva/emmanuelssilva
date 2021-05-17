@@ -6,8 +6,8 @@ I developed some projects in Pawn(C Language) in Gta San Andreas Online, due to 
 
 📫 How to reach me ...
 
-<a href="#" alt="Linkedin">
-<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emmanuelroberto" />https://www.linkedin.com/in/emmanuelroberto</a>
+<a href="https://www.linkedin.com/in/emmanuelroberto" alt="Linkedin">
+<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emmanuelroberto" /></a>
 
 <!---
 emmanuelssilva/emmanuelssilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
