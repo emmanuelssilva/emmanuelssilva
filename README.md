@@ -1,11 +1,9 @@
-👋 Hi, I’m @emmanuelssilva, I am majoring in Computer Science at Universidade Nove de Julho. 👀 Currently I am looking for an internship opportunity in the technology area, 
-specifically in Front-End Development and Flutter.
+Olá, me chamo Emmanuel Silva,  tenho 23 anos e estou no 7º semestre em ciência da computação na Universidade Nove de Julho, atualmente estou procurando uma oportunidade de estágio na área de desenvolvimento front-end para iniciar minha carreira, seja bem vindo(a) ao meu portfólio. 
 
-🌱 I’m currently learning HTML,CSS and Javascript. 💞️ I am starting my career in the development area, my passion for programming started very early, when I was younger, 
-I developed some projects in Pawn(C Language) in Gta San Andreas Online, due to the problem I had with my old computer, unfortunately I lost the projects :( 
+Comecei a desenvolver minhas primeiras aplicações em HTML, CSS e Javascript recentemente, mas minha paixão pela programação é antiga e comecei nela muito cedo, quando era mais novo, la nós meus 11,12 anos, eu desenvolvia alguns projetos em Pawn(linguagem C) criando servidores e filterscripts(DLC) no GTA San Andreas on-line, também passei por pequenas experiencias com demais linguagens, como Java, Phyton e C++. Também passei por segurança da informação e tenho um carinho por essa área, mas me encontrei em Front-End e desejo seguir carreira nesta área. 
 
-📫 How to reach me ...
 
+Contatos:
 <a href="https://www.linkedin.com/in/emmanuelroberto" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emmanuelroberto" /></a>
 
